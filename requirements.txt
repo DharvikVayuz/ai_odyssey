@@ -1,0 +1,7 @@
+# This course only uses Python's built-in features - no external
+# packages are required to run any lesson, exercise, or the mini project.
+#
+# The virtual environment (see setup_guide.md) is still worth creating,
+# so you get into the habit early - every real Python project uses one,
+# and later courses that DO need external packages (like NumPy or
+# Pandas) will simply add their names to a file like this one.
